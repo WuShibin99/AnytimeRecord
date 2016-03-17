@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Anytime Record</string>
+    <string name="category">Category not added</string>
+    <string name="money">Input the money</string>
+    <string name="date">Select date</string>
+    <string name="not_date">Date not added</string>
+    <string name="time">Select time</string>
+    <string name="not_time">Time not added</string>
+    <string name="note">Notes not added</string>
+    <string name="done">Done</string>
+
+    <string name="title_activity_setting">Setting</string>
+    <string name="security">Security</string>
+    <string name="set_lock">Set Password</string>
+    <string name="re_lock">Reset Password</string>
+    <string name="del_lock">Delete Password</string>
+
+    <!--计算器/calculator-->
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="del">DEL</string>
+    <string name="plus">＋</string>
+    <string name="minus">－</string>
+    <string name="multiplied">×</string>
+    <string name="divide">÷</string>
+    <string name="equal">＝</string>
+    <string name="clear">C</string>
+    <string name="dot">.</string>
+    <string name="not_zero">The Divisor cannot be zero</string>
+
+
+    <string name="close">Close </string>
+    <string name="input_error">Check your money/date/time</string>
+    <string name="input_complete">Success</string>
+    <string name="delete">Delete</string>
+    <string name="fail">Fail</string>
+    <string name="suc">Success</string>
+    <string name="edit">Edit</string>
+
+    <!--更新日志/update detail-->
+    <string name="ver_1.0">1.0:Alpha version.Create some new ideas</string>
+    <string name="ver_1.1">1.1:Finish some widget</string>
+    <string name="ver_1.2">1.2:Finish basic layout demo</string>
+    <string name="ver_1.3">1.3:Complete some basic feature，such as date and time chooser</string>
+    <string name="ver_1.4">1.4:The main coder\'s computer motherboard burned,project delayed</string>
+    <string name="ver_1.5">1.5:Re do the project and UI changes</string>
+    <string name="ver_1.6">1.6:Bug fix and more works</string>
+    <string name="ver_1.7">1.7:Beta version.Decide the final icon</string>
+    <string name="ver_1.8">1.8:Try to find some new idea</string>
+    <string name="ver_1.9">1.9:UI changes</string>
+    <string name="ver_2.0">2.0:Finish the calculator</string>
+    <string name="ver_2.1">2.1:Reduce project,clean useless ideas</string>
+    <string name="ver_2.2">2.2:Improve the edit and the delete future</string>
+    <string name="ver_2.3">2.3:Release version.UI improve,Catch some little bugs</string>
+
+    <string name="thanks">Thank you for using this application</string>
+    <string name="update_detail">Update Detail</string>
+
+    <!--content_main-->
+    <string name="ll_money">Money</string>
+    <string name="ll_category">Category</string>
+    <string name="about">About</string>
+    <string name="action_settings">Setting</string>
+    <string name="ins">Instructions</string>
+    <string name="logo">It\'s A Work From ARTeam</string>
+    <string name="detail">Detail</string>
+    <string name="title_activity_edit">Edit Item</string>
+
+    <!--dialog info-->
+    <string name="show_info">This is the info</string>
+    <string name="show_date">Date:</string>
+    <string name="show_time">Time:</string>
+    <string name="show_note">Note:</string>
+    <string name="show_money">Money:</string>
+    <string name="show_category">Category:</string>
+    <string name="not_set">Not added</string>
+    <string name="deleted">The item will be delete after app restart\nMake sure others will not be deleted</string>
+    <string name="finished">Modify success,change will save after app restart</string>
+    <string name="tap_for_detail">Click for instructions</string>
+    <string name="exit">Exit</string>
+
+    <string name="i1">1:Record will show at the bottom of screen,Drag the gray area up to view.</string>
+    <string name="i2">2:The calculator button will stay to help you.Known issue:The float button only show half above Android 5.0</string>
+    <string name="i3">3:Please pay attention to avoid two identical data,else when you delete one of them,other data will be delete.</string>
+
+    <!--虽然很想排序，但我已经乱套了  /  I have something wrong with the sequence ;) -->
+</resources>
+
+
